@@ -15,7 +15,7 @@
   width: 100px;
   height: 100px;
   color: yellow;
-  background-color: red;
+  background-color: orange;
   border: 5px solid black;
   /* border-top: 5px dotted black;
   border-right: 5px solid yellow;
@@ -32,4 +32,19 @@
   border-bottom-right-radius: 30px;
   border-bottom-left-radius: 50px; */
   border-radius: 20px 10px 30px 50px;
+}
+
+.box3 {
+  width: 100px;
+  height: 100px;
+  color: yellow;
+  background-color: blue;
+  padding: 20px;
+  border: 20px;
+  /* margin: 20px; */
+  /* margin-top: 20px;
+  margin-right: 10px;
+  margin-bottom: 30px;
+  margin-left: 50px; */
+  margin: 20px 10px 30px 50px;
 }
