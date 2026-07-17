@@ -1,0 +1,12 @@
+div {
+  width: 100px;
+  height: 100px;
+  color: yellow;
+  background-color: red;
+  /* padding: 20px; */
+  /* padding-top: 20px;
+  padding-right: 10px;
+  padding-bottom: 30px;
+  padding-left: 50px; */
+  padding: 20px 10px 30px 50px;
+}
